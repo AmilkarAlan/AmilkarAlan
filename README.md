@@ -34,9 +34,5 @@ I am also looking to start working and collaborating. 🧰 A job where I can sta
 - Netlify - [Netlify](https://app.netlify.com/teams/amilkaralan/overview)
 - Frontend Mentor - [@AmilkarAlan](https://www.frontendmentor.io/profile/AmilkarAlan)
 - Twitter - [@Amilkar_SanzMtz](https://twitter.com/Amilkar_SanzMtz)
-- Gmail - [Amilkar Sanchez](amilkaralan@gmail.com)
+- Gmail - amilkaralan@gmail.com
 
-<!---
-AmilkarAlan/AmilkarAlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
