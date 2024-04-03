@@ -18,6 +18,8 @@ I made peace with myself and decided to learn and dedicate myself to what I have
   - HTML
   - CSS
   - JS
+  - ReactJs
+  - ExpressJs
   - Markdown
   - Git
 
