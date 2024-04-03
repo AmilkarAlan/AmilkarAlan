@@ -1,40 +1,22 @@
-# Welcome!👋
+# Hola, soy Alan Sanchez 👋
 
-## ✍️ Hi, I’m @AmilkarAlan
+## Sobre mí 🚀
+Soy un apasionado desarrollador Full Stack en formación, con más de un año de experiencia aprendiendo y construyendo proyectos con tecnologías como **JavaScript**, **ReactJs**, **ExpressJs**, **Sequelize**, **HTML** y **CSS**. Actualmente estoy ampliando mis conocimientos en el bootcamp **SoyHenry!**, donde me sumerjo en el mundo del desarrollo web y adquiero habilidades prácticas para la industria.
 
-This is my GitHub where I keep the projects I'm doing throughout my apprenticeship.
+## Mis Proyectos 💼
+Aquí puedes encontrar algunos de los proyectos en los que he trabajado. Estos proyectos reflejan mi crecimiento y las habilidades técnicas que he adquirido a lo largo de mi viaje de aprendizaje autodidacta.
 
-## 🚀 I'm starting a new adventure ...
+## Educación 📚
+- **Bootcamp Full Stack Developer** - SoyHenry!
+- Cursos de desarrollo web en **Platzi**
+- Aprendizaje continuo a través de **documentación oficial**, **tutoriales de YouTube** y más.
 
-It starts in the FrontEnd developer career ...
+## Contacto 📫
+Si estás interesado en colaborar o simplemente quieres charlar sobre tecnología y programación, ¡no dudes en contactarme!
 
-I studied and finished my accounting degree, but I did not receive my degree.
-I realized that it wasn't what made me happy, it wasn't even entertaining. In fact, I could say that i hates it.
+- **GitHub**: ([AmilkarAlan](https://github.com/AmilkarAlan))
+- **LinkedIn**: [Amilkar Alan Sanchez](www.linkedin.com/in/amilkar-sanchez-martinez-3b6aab166)
+- **Correo**: amilkaralan@gmail.com
+- **Netlify**- [Netlify](https://app.netlify.com/teams/amilkaralan/overview)
 
-I made peace with myself and decided to learn and dedicate myself to what I have always liked, which is programming.
-
-## 🧠 I’m currently learning ...
-
-  - HTML
-  - CSS
-  - JS
-  - ReactJs
-  - ExpressJs
-  - Markdown
-  - Git
-
-
-## 👁️ I'm looking for...
-
-
-I am looking to continue my learning.
-For this reason, comments, tips or help are welcome. That would help me a lot to continue growing in this new 🌎 world that I am about to enter.
-I am also looking to start working and collaborating. 🧰 A job where I can start and put my skills into practice 🤓.
-
-## 📱 How to reach me ...
-
-- Netlify - [Netlify](https://app.netlify.com/teams/amilkaralan/overview)
-- Frontend Mentor - [@AmilkarAlan](https://www.frontendmentor.io/profile/AmilkarAlan)
-- Twitter - [@Amilkar_SanzMtz](https://twitter.com/Amilkar_SanzMtz)
-- Gmail - amilkaralan@gmail.com
-
+---
