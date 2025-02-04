@@ -2,7 +2,7 @@
 
 ## Sobre mí 🚀
 
-Soy un apasionado desarrollador Full Stack en formación, con más de un año de experiencia aprendiendo y construyendo proyectos con tecnologías como JavaScript, ReactJs, ExpressJs, Sequelize, HTML y CSS. Actualmente estoy ampliando mis conocimientos en el bootcamp SoyHenry!, donde me sumerjo en el mundo del desarrollo web y adquiero habilidades prácticas para la industria.
+Soy un apasionado desarrollador Full Stack en formación, con más de dos año de experiencia aprendiendo y construyendo proyectos con tecnologías como JavaScript, ReactJs, ExpressJs, Sequelize, HTML y CSS. Actualmente estoy ampliando mis conocimientos en el bootcamp SoyHenry!, donde me sumerjo en el mundo del desarrollo web y adquiero habilidades prácticas para la industria.
 
 Me apasiona el frontend, especialmente el diseño y la experiencia de usuario, pero también disfruto trabajar en el backend y estoy abierto a aprender más sobre UI/UX. Tengo una sólida formación en desarrollo web con las siguientes tecnologías:
 
