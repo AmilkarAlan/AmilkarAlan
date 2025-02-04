@@ -6,7 +6,7 @@ Soy un apasionado desarrollador Full Stack en formación, con más de dos año d
 
 Me apasiona el frontend, especialmente el diseño y la experiencia de usuario, pero también disfruto trabajar en el backend y estoy abierto a aprender más sobre UI/UX. Tengo una sólida formación en desarrollo web con las siguientes tecnologías:
 
-* Frontend: React, CSS, Tailwind
+* Frontend:NextJs, Astro, React, CSS, Tailwind
 * Backend: Node.js, Express
 * Bases de datos: Sequelize, SQL
 * Además de mis habilidades técnicas, tengo una fuerte habilidad para comunicar y enseñar a los demás. A menudo tomaba el rol de mentor en mi equipo durante el bootcamp, explicando temas complejos y ayudando a mis compañeros a superar desafíos técnicos.
