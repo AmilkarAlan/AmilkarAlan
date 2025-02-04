@@ -9,7 +9,8 @@ Me apasiona el frontend, especialmente el diseño y la experiencia de usuario, p
 * Frontend:NextJs, Astro, React, CSS, Tailwind
 * Backend: Node.js, Express
 * Bases de datos: Sequelize, SQL
-* Además de mis habilidades técnicas, tengo una fuerte habilidad para comunicar y enseñar a los demás. A menudo tomaba el rol de mentor en mi equipo durante el bootcamp, explicando temas complejos y ayudando a mis compañeros a superar desafíos técnicos.
+  
+Además de mis habilidades técnicas, tengo una fuerte habilidad para comunicar y enseñar a los demás. A menudo tomaba el rol de mentor en mi equipo durante el bootcamp, explicando temas complejos y ayudando a mis compañeros a superar desafíos técnicos.
 
 ## Mis Proyectos 💼
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado. Estos proyectos reflejan mi crecimiento y las habilidades técnicas que he adquirido a lo largo de mi viaje de aprendizaje autodidacta.
